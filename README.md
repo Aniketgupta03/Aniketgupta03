@@ -33,15 +33,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketgupta03&show_icons=true&locale=en&layout=compact" alt="aniketgupta03" /></p>
+  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketgupta03&show_icons=true&locale=en" alt="aniketgupta03" /></p>
+
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketgupta03&show_icons=true&locale=en&layout=compact" alt="aniketgupta03" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketgupta03&show_icons=true&locale=en" alt="aniketgupta03" /></p>
 
 </details>
 
