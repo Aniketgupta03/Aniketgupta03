@@ -37,7 +37,7 @@
 
 - 📄 Know about my experiences : [https://drive.google.com/file/d/1J4sCYwlgvekyEbxrgTlG5SLfCxNwXsxK/view?usp=sharing](https://drive.google.com/file/d/1J4sCYwlgvekyEbxrgTlG5SLfCxNwXsxK/view?usp=sharing)
 
-- ⚡ Fun fact **: I think I am Greedy Workaholic.**
+- ⚡ Fun fact **: I think I am a Greedy Workaholic.**
   </div>
   
 <br>
