@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Aniket Gupta a CSE B.tech student at Amrita School of Engineering, Chennai</h1>
-<h3 align="center">Frontend developer | Cognizance Club Member | Coding Supervisor @CampK12 | Data Scientist</h3>
+<h3 align="center">Frontend developer | Cognizance Club Mentor | Coding Supervisor @CampK12 | Data Scientist</h3>
 
 <br>
 
